@@ -3,7 +3,7 @@
 [//]: # (Image References)
 
 [Output_img]: ./output/Result.PNG "Output_img"
-[NIS_img]: ./output/NIS.PNG "NIS_img"
+[NIS_img]: ./output/NIS.png "NIS_img"
  
 
 
